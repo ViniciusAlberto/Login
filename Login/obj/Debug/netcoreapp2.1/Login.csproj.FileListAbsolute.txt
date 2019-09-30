@@ -1,0 +1,14 @@
+D:\Vinicius\Documentos\Login\Login\bin\Debug\netcoreapp2.1\Login.deps.json
+D:\Vinicius\Documentos\Login\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.json
+D:\Vinicius\Documentos\Login\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.dev.json
+D:\Vinicius\Documentos\Login\Login\bin\Debug\netcoreapp2.1\Login.dll
+D:\Vinicius\Documentos\Login\Login\obj\Debug\netcoreapp2.1\Login.csprojAssemblyReference.cache
+D:\Vinicius\Documentos\Login\Login\obj\Debug\netcoreapp2.1\Login.csproj.CoreCompileInputs.cache
+D:\Vinicius\Documentos\Login\Login\obj\Debug\netcoreapp2.1\Login.RazorAssemblyInfo.cache
+D:\Vinicius\Documentos\Login\Login\obj\Debug\netcoreapp2.1\Login.RazorAssemblyInfo.cs
+D:\Vinicius\Documentos\Login\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfoInputs.cache
+D:\Vinicius\Documentos\Login\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfo.cs
+D:\Vinicius\Documentos\Login\Login\obj\Debug\netcoreapp2.1\Login.RazorTargetAssemblyInfo.cache
+D:\Vinicius\Documentos\Login\Login\bin\Debug\netcoreapp2.1\Login.pdb
+D:\Vinicius\Documentos\Login\Login\obj\Debug\netcoreapp2.1\Login.dll
+D:\Vinicius\Documentos\Login\Login\obj\Debug\netcoreapp2.1\Login.pdb
