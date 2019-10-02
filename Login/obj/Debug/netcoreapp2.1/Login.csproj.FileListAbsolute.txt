@@ -12,3 +12,17 @@ D:\Vinicius\Documentos\Login\Login\obj\Debug\netcoreapp2.1\Login.RazorTargetAsse
 D:\Vinicius\Documentos\Login\Login\bin\Debug\netcoreapp2.1\Login.pdb
 D:\Vinicius\Documentos\Login\Login\obj\Debug\netcoreapp2.1\Login.dll
 D:\Vinicius\Documentos\Login\Login\obj\Debug\netcoreapp2.1\Login.pdb
+C:\Users\888012\Documents\ABE\Login\Login\bin\Debug\netcoreapp2.1\Login.deps.json
+C:\Users\888012\Documents\ABE\Login\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.json
+C:\Users\888012\Documents\ABE\Login\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.dev.json
+C:\Users\888012\Documents\ABE\Login\Login\bin\Debug\netcoreapp2.1\Login.dll
+C:\Users\888012\Documents\ABE\Login\Login\bin\Debug\netcoreapp2.1\Login.pdb
+C:\Users\888012\Documents\ABE\Login\Login\obj\Debug\netcoreapp2.1\Login.csprojAssemblyReference.cache
+C:\Users\888012\Documents\ABE\Login\Login\obj\Debug\netcoreapp2.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\888012\Documents\ABE\Login\Login\obj\Debug\netcoreapp2.1\Login.RazorAssemblyInfo.cache
+C:\Users\888012\Documents\ABE\Login\Login\obj\Debug\netcoreapp2.1\Login.RazorAssemblyInfo.cs
+C:\Users\888012\Documents\ABE\Login\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfoInputs.cache
+C:\Users\888012\Documents\ABE\Login\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfo.cs
+C:\Users\888012\Documents\ABE\Login\Login\obj\Debug\netcoreapp2.1\Login.RazorTargetAssemblyInfo.cache
+C:\Users\888012\Documents\ABE\Login\Login\obj\Debug\netcoreapp2.1\Login.dll
+C:\Users\888012\Documents\ABE\Login\Login\obj\Debug\netcoreapp2.1\Login.pdb

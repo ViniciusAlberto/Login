@@ -28,7 +28,7 @@ namespace WebApi.Controllers
         [HttpPost("authenticate")]
         public IActionResult Authenticate([FromBody]User userDto)
         {
-            var user = UsersFake().Where(x => x.IDUser == userDto.IDUser && x.Password == userDto.Password ).FirstOrDefault();
+            var user = UsersFake().Where(x => x.CPF == userDto.CPF && x.Password == userDto.Password ).FirstOrDefault();
 
             if (user != null)
             {
@@ -86,6 +86,7 @@ namespace WebApi.Controllers
             var user1 = new User()
             {
                 IDUser = 1,
+                CPF="12112121212",
                 Name = "Vinicius",
                 Login="vinicius01",
                 Password ="123"
@@ -93,6 +94,7 @@ namespace WebApi.Controllers
             var user2 = new User()
             {
                 IDUser = 2,
+                CPF = "12112121212",
                 Name = "Marco Mendes",
                 Login ="marco01",
                 Password = "123"
@@ -100,6 +102,7 @@ namespace WebApi.Controllers
             var user3 = new User()
             {
                 IDUser = 3,
+                CPF = "12112121212",
                 Name = "João",
                 Login="joao1",
                 Password = "123"
@@ -107,6 +110,7 @@ namespace WebApi.Controllers
             var user4 = new User()
             {
                 IDUser = 4,
+                CPF = "12112121212",
                 Name = "Maria",
                 Login ="maria01",
                 Password = "123"
